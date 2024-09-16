@@ -5,13 +5,10 @@
 # Hi There! °˖✧◝(⁰▿⁰)◜✧˖° 
 ### I'm Abby, a recent graduate from the University of Trinidad and Tobago and I'm currently *an Intern at The Pink Stars* ! <br />
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBmeHB3ajVzMWlyOGZkaXcwd2F2Y2Z5NjdlaWVtd2wwajV3ZDU1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L9EUxgj4PCwU6pZXsS/giphy.gif"  /><br />
-
-🌐 Socials: <br /><br />
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abigail-rambarran-287181276/) <br /><br /><br />
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBmeHB3ajVzMWlyOGZkaXcwd2F2Y2Z5NjdlaWVtd2wwajV3ZDU1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L9EUxgj4PCwU6pZXsS/giphy.gif"  />
 
 ###
-<hr />These are the languages I work in:
+These are the languages I work in:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -33,4 +30,5 @@
   <img width="12" />
 </div><br/>
 
-
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abigail-rambarran-287181276/) 
