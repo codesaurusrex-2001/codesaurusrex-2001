@@ -8,7 +8,7 @@
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBmeHB3ajVzMWlyOGZkaXcwd2F2Y2Z5NjdlaWVtd2wwajV3ZDU1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L9EUxgj4PCwU6pZXsS/giphy.gif"  /><br />
 
 🌐 Socials: <br /><br />
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abigail-rambarran-287181276/) <br /><br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abigail-rambarran-287181276/) <br /><br /><br />
 
 ###
 <hr />These are the languages I work in:
